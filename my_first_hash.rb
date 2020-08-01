@@ -1,6 +1,7 @@
 def my_hash
   first_var {"city" => "team_name"} 
 end
+end
 
 
 def shipping_manifest
