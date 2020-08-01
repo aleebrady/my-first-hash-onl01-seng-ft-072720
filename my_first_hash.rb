@@ -4,7 +4,7 @@ end
 
 
 def shipping_manifest
-  the_manifest = {"whale_bones_corsets" => 5, 
+  the_manifest = {"whale bones corsets" => 5, 
                   "porcelain vases" => 2, 
                   "oil paintings" => 3}
 end
