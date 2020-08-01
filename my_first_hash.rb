@@ -1,5 +1,5 @@
 def my_hash
-  first_var = {"city" => "team_name"} 
+  your_hash = {"city" => "team_name"} 
 end
 
 
