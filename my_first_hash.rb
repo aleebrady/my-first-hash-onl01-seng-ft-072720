@@ -17,7 +17,6 @@ def retrieval
     
                   }
   shipping_manifest["porcelain vases"]
-
 end
 
 def adding
